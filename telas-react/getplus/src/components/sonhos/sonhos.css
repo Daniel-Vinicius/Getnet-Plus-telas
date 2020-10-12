@@ -1,0 +1,4589 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: "Open Sans", serif;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  -webkit-font-smoothing: antialiased;
+  overflow: -moz-scrollbars-none;
+  -ms-overflow-style: none;
+}
+
+.sonhos {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: auto;
+  overflow-y: auto;
+  background-color: rgba(255, 255, 255, 1);
+  width: 375px;
+  height: 667px;
+  left: 0px;
+  top: 0px;
+}
+
+.sonhos .retangulo14 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(58, 58, 58, 1);
+  border-bottom-color: rgba(112, 112, 112, 1);
+  border-bottom-style: none;
+  border-bottom-width: 1px;
+  border-left-color: rgba(112, 112, 112, 1);
+  border-left-style: none;
+  border-left-width: 1px;
+  border-right-color: rgba(112, 112, 112, 1);
+  border-right-style: none;
+  border-right-width: 1px;
+  border-top-color: rgba(112, 112, 112, 1);
+  border-top-style: none;
+  border-top-width: 1px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+  box-shadow: none;
+  width: 375px;
+  height: 667px;
+  left: 0px;
+  top: -11px;
+}
+
+.sonhos .retangulo17 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(58, 58, 58, 1);
+  border-bottom-color: rgba(112, 112, 112, 1);
+  border-bottom-style: none;
+  border-bottom-width: 1px;
+  border-left-color: rgba(112, 112, 112, 1);
+  border-left-style: none;
+  border-left-width: 1px;
+  border-right-color: rgba(112, 112, 112, 1);
+  border-right-style: none;
+  border-right-width: 1px;
+  border-top-color: rgba(112, 112, 112, 1);
+  border-top-style: none;
+  border-top-width: 1px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+  box-shadow: none;
+  width: 375px;
+  height: 102px;
+  left: 0px;
+  top: -11px;
+}
+
+.sonhos .seta {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 40.5px;
+  height: 27px;
+  left: 43px;
+  top: 24px;
+}
+
+.sonhos .seta .linha2 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  stroke: rgba(255, 0, 0, 1);
+  stroke-width: 5px;
+  stroke-linecap: round;
+  box-shadow: none;
+  width: 39px;
+  height: 5px;
+  left: 4px;
+  top: 11px;
+}
+
+.sonhos .seta .poligono1 {
+  position: absolute;
+  box-sizing: border-box;
+  -ms-transform: rotate(-90deg);
+  -webkit-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  fill: rgba(255, 0, 0, 1);
+  stroke: rgba(255, 0, 0, 1);
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 27px;
+  height: 19px;
+  left: -4px;
+  top: 4px;
+}
+
+.sonhos .retangulo16 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 1);
+  border-bottom-color: rgba(112, 112, 112, 1);
+  border-bottom-style: none;
+  border-bottom-width: 1px;
+  border-left-color: rgba(112, 112, 112, 1);
+  border-left-style: none;
+  border-left-width: 1px;
+  border-right-color: rgba(112, 112, 112, 1);
+  border-right-style: none;
+  border-right-width: 1px;
+  border-top-color: rgba(112, 112, 112, 1);
+  border-top-style: none;
+  border-top-width: 1px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+  box-shadow: none;
+  width: 375px;
+  height: 250px;
+  left: 0px;
+  top: 164px;
+}
+
+.sonhos .sonhos58b88224 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 255, 255, 1);
+  -webkit-text-stroke: unset;
+  font-size: 30px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  width: 172px;
+  height: 54px;
+  left: 203px;
+  top: 28px;
+}
+
+.sonhos .retangulo18 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(200, 200, 200, 1);
+  border-bottom-color: rgba(112, 112, 112, 1);
+  border-bottom-style: none;
+  border-bottom-width: 1px;
+  border-left-color: rgba(112, 112, 112, 1);
+  border-left-style: none;
+  border-left-width: 1px;
+  border-right-color: rgba(112, 112, 112, 1);
+  border-right-style: none;
+  border-right-width: 1px;
+  border-top-color: rgba(112, 112, 112, 1);
+  border-top-style: none;
+  border-top-width: 1px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+  box-shadow: none;
+  width: 375px;
+  height: 90px;
+  left: 0px;
+  top: 577px;
+}
+
+.sonhos .pouparcf8a2954 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 46px;
+  height: 67px;
+  left: 14px;
+  top: 585px;
+}
+
+.sonhos .pouparcf8a2954 .walletFilledMoneyTool {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  background-image: url("./assets/walletFilledMoneyTool.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  border-bottom-color: rgba(112, 112, 112, 1);
+  border-bottom-style: none;
+  border-bottom-width: 1px;
+  border-left-color: rgba(112, 112, 112, 1);
+  border-left-style: none;
+  border-left-width: 1px;
+  border-right-color: rgba(112, 112, 112, 1);
+  border-right-style: none;
+  border-right-width: 1px;
+  border-top-color: rgba(112, 112, 112, 1);
+  border-top-style: none;
+  border-top-width: 1px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+  box-shadow: none;
+  width: 38px;
+  height: 38px;
+  left: 4px;
+  top: 0px;
+}
+
+.sonhos .pouparcf8a2954 .poupar {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(0, 0, 0, 1);
+  -webkit-text-stroke: unset;
+  font-size: 12px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  width: 46px;
+  height: 14px;
+  left: 0px;
+  top: 55px;
+}
+
+.sonhos .estudar8ec7c7f0 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 46px;
+  height: 67px;
+  left: 105px;
+  top: 585px;
+}
+
+.sonhos .estudar8ec7c7f0 .teacherAtTheBlackboard {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  background-image: url("assets/teacherAtTheBlackboard.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  border-bottom-color: rgba(112, 112, 112, 1);
+  border-bottom-style: none;
+  border-bottom-width: 1px;
+  border-left-color: rgba(112, 112, 112, 1);
+  border-left-style: none;
+  border-left-width: 1px;
+  border-right-color: rgba(112, 112, 112, 1);
+  border-right-style: none;
+  border-right-width: 1px;
+  border-top-color: rgba(112, 112, 112, 1);
+  border-top-style: none;
+  border-top-width: 1px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+  box-shadow: none;
+  width: 38px;
+  height: 38px;
+  left: 8px;
+  top: 0px;
+}
+
+.sonhos .estudar8ec7c7f0 .estudar {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(0, 0, 0, 1);
+  -webkit-text-stroke: unset;
+  font-size: 12px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  width: 46px;
+  height: 14px;
+  left: 0px;
+  top: 55px;
+}
+
+.sonhos .sonhosd5a764cb {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 46px;
+  height: 73px;
+  left: 208px;
+  top: 581px;
+}
+
+.sonhos .sonhosd5a764cb .casa {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  background-image: url("assets/casa.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  border-bottom-color: rgba(112, 112, 112, 1);
+  border-bottom-style: none;
+  border-bottom-width: 1px;
+  border-left-color: rgba(112, 112, 112, 1);
+  border-left-style: none;
+  border-left-width: 1px;
+  border-right-color: rgba(112, 112, 112, 1);
+  border-right-style: none;
+  border-right-width: 1px;
+  border-top-color: rgba(112, 112, 112, 1);
+  border-top-style: none;
+  border-top-width: 1px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+  box-shadow: none;
+  width: 45px;
+  height: 44px;
+  left: 0px;
+  top: 0px;
+}
+
+.sonhos .sonhosd5a764cb .sonhosdab64b4b {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(0, 0, 0, 1);
+  -webkit-text-stroke: unset;
+  font-size: 12px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  width: 46px;
+  height: 14px;
+  left: 0px;
+  top: 61px;
+}
+
+.sonhos .emprestimob86d89db {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 72px;
+  height: 67px;
+  left: 295px;
+  top: 585px;
+}
+
+.sonhos .emprestimob86d89db .emprestimob13a07be {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  background-image: url("./assets/emprestimo54983bbc.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  border-bottom-color: rgba(112, 112, 112, 1);
+  border-bottom-style: none;
+  border-bottom-width: 1px;
+  border-left-color: rgba(112, 112, 112, 1);
+  border-left-style: none;
+  border-left-width: 1px;
+  border-right-color: rgba(112, 112, 112, 1);
+  border-right-style: none;
+  border-right-width: 1px;
+  border-top-color: rgba(112, 112, 112, 1);
+  border-top-style: none;
+  border-top-width: 1px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+  box-shadow: none;
+  width: 38px;
+  height: 38px;
+  left: 17px;
+  top: 0px;
+}
+
+.sonhos .emprestimob86d89db .emprestimo {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(0, 0, 0, 1);
+  -webkit-text-stroke: unset;
+  font-size: 12px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  width: 72px;
+  height: 14px;
+  left: 0px;
+  top: 55px;
+}
+
+.sonhos .seusSonhos {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 0, 0, 1);
+  -webkit-text-stroke: unset;
+  font-size: 30px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  width: 207px;
+  height: 40px;
+  left: 11px;
+  top: 99px;
+}
+
+.sonhos .retangulo3 {
+  position: absolute;
+  box-sizing: border-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 0, 0, 1);
+  border-bottom-color: rgba(112, 112, 112, 1);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-left-color: rgba(112, 112, 112, 1);
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-right-color: rgba(112, 112, 112, 1);
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-top-color: rgba(112, 112, 112, 1);
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  box-shadow: none;
+  width: 333px;
+  height: 44px;
+  left: 21px;
+  top: 470px;
+}
+
+.sonhos .criarConta {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 255, 255, 1);
+  -webkit-text-stroke: unset;
+  font-size: 25px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 142px;
+  height: 33px;
+  left: 117px;
+  top: 487.5px;
+}
+
+.sonhos .sonho4 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 160px;
+  height: 108px;
+  left: 188px;
+  top: 291px;
+}
+
+.sonhos .sonho4 .retangulo24 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(58, 58, 58, 1);
+  border-bottom-color: rgba(112, 112, 112, 1);
+  border-bottom-style: none;
+  border-bottom-width: 1px;
+  border-left-color: rgba(112, 112, 112, 1);
+  border-left-style: none;
+  border-left-width: 1px;
+  border-right-color: rgba(112, 112, 112, 1);
+  border-right-style: none;
+  border-right-width: 1px;
+  border-top-color: rgba(112, 112, 112, 1);
+  border-top-style: none;
+  border-top-width: 1px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  box-shadow: none;
+  width: 157px;
+  height: 108px;
+  left: 0px;
+  top: 0px;
+}
+
+.sonhos .sonho4 .comprarAlgo {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 255, 255, 1);
+  -webkit-text-stroke: unset;
+  font-size: 15px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  width: 157px;
+  height: 26px;
+  left: 3px;
+  top: 6px;
+}
+
+.sonhos .sonho4 .x407210b7 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 18px;
+  height: 19px;
+  left: 10px;
+  top: 63px;
+}
+
+.sonhos .sonho4 .x407210b7 .retangulo31 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 0, 0, 1);
+  border-bottom-color: rgba(112, 112, 112, 1);
+  border-bottom-style: none;
+  border-bottom-width: 1px;
+  border-left-color: rgba(112, 112, 112, 1);
+  border-left-style: none;
+  border-left-width: 1px;
+  border-right-color: rgba(112, 112, 112, 1);
+  border-right-style: none;
+  border-right-width: 1px;
+  border-top-color: rgba(112, 112, 112, 1);
+  border-top-style: none;
+  border-top-width: 1px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  box-shadow: none;
+  width: 18px;
+  height: 19px;
+  left: 0px;
+  top: 0px;
+}
+
+.sonhos .sonho4 .x407210b7 .xdfe5338e {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 0, 0, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: 18px;
+  height: 15px;
+  left: 0px;
+  top: 4px;
+}
+
+.sonhos .sonho4 .x407210b7 .xdfe5338e .xdfe5338e-0 {
+  color: rgba(241, 241, 241, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4 .x407210b7 .xdfe5338e .xdfe5338e-1 {
+  color: rgba(255, 0, 0, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4 .check {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 118px;
+  height: 19px;
+  left: 17px;
+  top: 87px;
+}
+
+.sonhos .sonho4 .check .retangulo30 {
+  position: absolute;
+  box-sizing: border-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 0, 0, 1);
+  border-bottom-color: rgba(112, 112, 112, 1);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-left-color: rgba(112, 112, 112, 1);
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-right-color: rgba(112, 112, 112, 1);
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-top-color: rgba(112, 112, 112, 1);
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  box-shadow: none;
+  width: 113px;
+  height: 19px;
+  left: 2px;
+  top: 0px;
+}
+
+.sonhos .sonho4 .check .marcarComoFeito {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 255, 255, 1);
+  -webkit-text-stroke: unset;
+  font-size: 11px;
+  font-weight: 400;
+  font-style: normal;
+  font-family: Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: 118px;
+  height: 9px;
+  left: 0px;
+  top: 4px;
+}
+
+.sonhos .sonho4 .dinheiro {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 57.5px;
+  height: 15px;
+  left: 92px;
+  top: 65px;
+}
+
+.sonhos .sonho4 .dinheiro .linha5 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 54.59px;
+  height: 1px;
+  left: 2.91px;
+  top: 12.29px;
+}
+
+.sonhos .sonho4 .dinheiro .r {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 0, 0, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: 19px;
+  height: 15px;
+  left: 0px;
+  top: 2px;
+}
+
+.sonhos .sonho4 .dinheiro .r .r-0 {
+  color: rgba(241, 241, 241, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4 .dinheiro .r .r-0 {
+  color: rgba(255, 0, 0, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4 .prazo {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 146px;
+  height: 15px;
+  left: 0px;
+  top: 43px;
+}
+
+.sonhos .sonho4 .prazo .prazo7718850c {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(241, 241, 241, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: 43px;
+  height: 15px;
+  left: 0px;
+  top: 2px;
+}
+
+.sonhos .sonho4 .prazo .x1552021 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 0, 0, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: 55px;
+  height: 15px;
+  left: 91px;
+  top: 2px;
+}
+
+.sonhos .sonho4 .prazo .x1552021 .x1552021-0 {
+  color: rgba(241, 241, 241, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4 .prazo .x1552021 .x1552021-1 {
+  color: rgba(255, 0, 0, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4 .valor {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 146px;
+  height: 15px;
+  left: 3px;
+  top: 21px;
+}
+
+.sonhos .sonho4 .valor .valorNecessario {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(241, 241, 241, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  width: 85px;
+  height: 15px;
+  left: 0px;
+  top: 2px;
+}
+
+.sonhos .sonho4 .valor .re9692636 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 0, 0, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: 59px;
+  height: 15px;
+  left: 87px;
+  top: 2px;
+}
+
+.sonhos .sonho4 .valor .re9692636 .re9692636-0 {
+  color: rgba(241, 241, 241, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4 .valor .re9692636 .re9692636-0 {
+  color: rgba(255, 0, 0, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4b2bfcb36 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 160px;
+  height: 108px;
+  left: 188px;
+  top: 291px;
+}
+
+.sonhos .sonho4b2bfcb36 .retangulo24270fa045 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(58, 58, 58, 1);
+  border-bottom-color: rgba(112, 112, 112, 1);
+  border-bottom-style: none;
+  border-bottom-width: 1px;
+  border-left-color: rgba(112, 112, 112, 1);
+  border-left-style: none;
+  border-left-width: 1px;
+  border-right-color: rgba(112, 112, 112, 1);
+  border-right-style: none;
+  border-right-width: 1px;
+  border-top-color: rgba(112, 112, 112, 1);
+  border-top-style: none;
+  border-top-width: 1px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  box-shadow: none;
+  width: 157px;
+  height: auto;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+}
+
+.sonhos .sonho4b2bfcb36 .comprarAlgo6592ca93 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 255, 255, 1);
+  -webkit-text-stroke: unset;
+  font-size: 15px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  width: 157px;
+  height: 26px;
+  top: 6px;
+  right: 0px;
+}
+
+.sonhos .sonho4b2bfcb36 .x36f06fe7 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 18px;
+  height: 19px;
+  left: 10px;
+  top: 63px;
+}
+
+.sonhos .sonho4b2bfcb36 .x36f06fe7 .retangulo3154de542f {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 0, 0, 1);
+  border-bottom-color: rgba(112, 112, 112, 1);
+  border-bottom-style: none;
+  border-bottom-width: 1px;
+  border-left-color: rgba(112, 112, 112, 1);
+  border-left-style: none;
+  border-left-width: 1px;
+  border-right-color: rgba(112, 112, 112, 1);
+  border-right-style: none;
+  border-right-width: 1px;
+  border-top-color: rgba(112, 112, 112, 1);
+  border-top-style: none;
+  border-top-width: 1px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  box-shadow: none;
+  width: auto;
+  height: auto;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+.sonhos .sonho4b2bfcb36 .x36f06fe7 .x5a168d6e {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 0, 0, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: auto;
+  height: 15px;
+  left: 0px;
+  top: 4px;
+  right: 0px;
+}
+
+.sonhos .sonho4b2bfcb36 .x36f06fe7 .x5a168d6e .x5a168d6e-0 {
+  color: rgba(241, 241, 241, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4b2bfcb36 .x36f06fe7 .x5a168d6e .x5a168d6e-1 {
+  color: rgba(255, 0, 0, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4b2bfcb36 .check1637beb7 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 118px;
+  height: 19px;
+  left: 17px;
+  top: 87px;
+}
+
+.sonhos .sonho4b2bfcb36 .check1637beb7 .retangulo307306301d {
+  position: absolute;
+  box-sizing: border-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 0, 0, 1);
+  border-bottom-color: rgba(112, 112, 112, 1);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-left-color: rgba(112, 112, 112, 1);
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-right-color: rgba(112, 112, 112, 1);
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-top-color: rgba(112, 112, 112, 1);
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  box-shadow: none;
+  width: 113px;
+  height: auto;
+  left: 2px;
+  top: 0px;
+  bottom: 0px;
+}
+
+.sonhos .sonho4b2bfcb36 .check1637beb7 .marcarComoFeito1960bc30 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 255, 255, 1);
+  -webkit-text-stroke: unset;
+  font-size: 11px;
+  font-weight: 400;
+  font-style: normal;
+  font-family: Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: auto;
+  height: 9px;
+  left: 0px;
+  top: 4px;
+  right: 0px;
+}
+
+.sonhos .sonho4b2bfcb36 .dinheiro51bffdd0 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 57.5px;
+  height: 15px;
+  left: 92px;
+  top: 65px;
+}
+
+.sonhos .sonho4b2bfcb36 .dinheiro51bffdd0 .linha5635d29a0 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 54.59px;
+  height: 1px;
+  top: 12.29px;
+  right: -0px;
+}
+
+.sonhos .sonho4b2bfcb36 .dinheiro51bffdd0 .r991ee1e3 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 0, 0, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: 19px;
+  height: auto;
+  left: 0px;
+  top: 2px;
+  bottom: -2px;
+}
+
+.sonhos .sonho4b2bfcb36 .dinheiro51bffdd0 .r991ee1e3 .r991ee1e3-0 {
+  color: rgba(241, 241, 241, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4b2bfcb36 .dinheiro51bffdd0 .r991ee1e3 .r991ee1e3-0 {
+  color: rgba(255, 0, 0, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4b2bfcb36 .prazo33f7e334 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 146px;
+  height: 15px;
+  left: 0px;
+  top: 43px;
+}
+
+.sonhos .sonho4b2bfcb36 .prazo33f7e334 .prazo3a6392f2 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(241, 241, 241, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: 43px;
+  height: auto;
+  left: 0px;
+  top: 2px;
+  bottom: -2px;
+}
+
+.sonhos .sonho4b2bfcb36 .prazo33f7e334 .x15520215da22737 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 0, 0, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: 55px;
+  height: auto;
+  top: 2px;
+  right: 0px;
+  bottom: -2px;
+}
+
+.sonhos .sonho4b2bfcb36 .prazo33f7e334 .x15520215da22737 .x15520215da22737-0 {
+  color: rgba(241, 241, 241, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4b2bfcb36 .prazo33f7e334 .x15520215da22737 .x15520215da22737-1 {
+  color: rgba(255, 0, 0, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4b2bfcb36 .valor34c2c7df {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 146px;
+  height: 15px;
+  left: 3px;
+  top: 21px;
+}
+
+.sonhos .sonho4b2bfcb36 .valor34c2c7df .valorNecessariob0592981 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(241, 241, 241, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  width: 85px;
+  height: auto;
+  left: 0px;
+  top: 2px;
+  bottom: -2px;
+}
+
+.sonhos .sonho4b2bfcb36 .valor34c2c7df .rfd99d3c7 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 0, 0, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: 59px;
+  height: auto;
+  top: 2px;
+  right: 0px;
+  bottom: -2px;
+}
+
+.sonhos .sonho4b2bfcb36 .valor34c2c7df .rfd99d3c7 .rfd99d3c7-0 {
+  color: rgba(241, 241, 241, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4b2bfcb36 .valor34c2c7df .rfd99d3c7 .rfd99d3c7-0 {
+  color: rgba(255, 0, 0, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4d14e8b80 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 160px;
+  height: 108px;
+  left: 21px;
+  top: 164px;
+}
+
+.sonhos .sonho4d14e8b80 .retangulo24edbdd095 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(58, 58, 58, 1);
+  border-bottom-color: rgba(112, 112, 112, 1);
+  border-bottom-style: none;
+  border-bottom-width: 1px;
+  border-left-color: rgba(112, 112, 112, 1);
+  border-left-style: none;
+  border-left-width: 1px;
+  border-right-color: rgba(112, 112, 112, 1);
+  border-right-style: none;
+  border-right-width: 1px;
+  border-top-color: rgba(112, 112, 112, 1);
+  border-top-style: none;
+  border-top-width: 1px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  box-shadow: none;
+  width: 157px;
+  height: auto;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+}
+
+.sonhos .sonho4d14e8b80 .comprarAlgoa1e30e85 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 255, 255, 1);
+  -webkit-text-stroke: unset;
+  font-size: 15px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  width: 157px;
+  height: 26px;
+  top: 6px;
+  right: 0px;
+}
+
+.sonhos .sonho4d14e8b80 .xea8c1931 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 18px;
+  height: 19px;
+  left: 10px;
+  top: 63px;
+}
+
+.sonhos .sonho4d14e8b80 .xea8c1931 .retangulo31c48860e8 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 0, 0, 1);
+  border-bottom-color: rgba(112, 112, 112, 1);
+  border-bottom-style: none;
+  border-bottom-width: 1px;
+  border-left-color: rgba(112, 112, 112, 1);
+  border-left-style: none;
+  border-left-width: 1px;
+  border-right-color: rgba(112, 112, 112, 1);
+  border-right-style: none;
+  border-right-width: 1px;
+  border-top-color: rgba(112, 112, 112, 1);
+  border-top-style: none;
+  border-top-width: 1px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  box-shadow: none;
+  width: auto;
+  height: auto;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+.sonhos .sonho4d14e8b80 .xea8c1931 .xcb61e72c {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 0, 0, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: auto;
+  height: 15px;
+  left: 0px;
+  top: 4px;
+  right: 0px;
+}
+
+.sonhos .sonho4d14e8b80 .xea8c1931 .xcb61e72c .xcb61e72c-0 {
+  color: rgba(241, 241, 241, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4d14e8b80 .xea8c1931 .xcb61e72c .xcb61e72c-1 {
+  color: rgba(255, 0, 0, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4d14e8b80 .checkde27b154 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 118px;
+  height: 19px;
+  left: 17px;
+  top: 87px;
+}
+
+.sonhos .sonho4d14e8b80 .checkde27b154 .retangulo300df2d53c {
+  position: absolute;
+  box-sizing: border-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 0, 0, 1);
+  border-bottom-color: rgba(112, 112, 112, 1);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-left-color: rgba(112, 112, 112, 1);
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-right-color: rgba(112, 112, 112, 1);
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-top-color: rgba(112, 112, 112, 1);
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  box-shadow: none;
+  width: 113px;
+  height: auto;
+  left: 2px;
+  top: 0px;
+  bottom: 0px;
+}
+
+.sonhos .sonho4d14e8b80 .checkde27b154 .marcarComoFeito4507c624 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 255, 255, 1);
+  -webkit-text-stroke: unset;
+  font-size: 11px;
+  font-weight: 400;
+  font-style: normal;
+  font-family: Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: auto;
+  height: 9px;
+  left: 0px;
+  top: 4px;
+  right: 0px;
+}
+
+.sonhos .sonho4d14e8b80 .dinheiro85ba8c91 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 57.5px;
+  height: 15px;
+  left: 92px;
+  top: 65px;
+}
+
+.sonhos .sonho4d14e8b80 .dinheiro85ba8c91 .linha57961bcb5 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 54.59px;
+  height: 1px;
+  top: 12.29px;
+  right: -0px;
+}
+
+.sonhos .sonho4d14e8b80 .dinheiro85ba8c91 .r6dc641a2 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 0, 0, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: 19px;
+  height: auto;
+  left: 0px;
+  top: 2px;
+  bottom: -2px;
+}
+
+.sonhos .sonho4d14e8b80 .dinheiro85ba8c91 .r6dc641a2 .r6dc641a2-0 {
+  color: rgba(241, 241, 241, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4d14e8b80 .dinheiro85ba8c91 .r6dc641a2 .r6dc641a2-0 {
+  color: rgba(255, 0, 0, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4d14e8b80 .prazoeea15605 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 146px;
+  height: 15px;
+  left: 0px;
+  top: 43px;
+}
+
+.sonhos .sonho4d14e8b80 .prazoeea15605 .prazob1600ca2 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(241, 241, 241, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: 43px;
+  height: auto;
+  left: 0px;
+  top: 2px;
+  bottom: -2px;
+}
+
+.sonhos .sonho4d14e8b80 .prazoeea15605 .x15520215aa8d08b {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 0, 0, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: 55px;
+  height: auto;
+  top: 2px;
+  right: 0px;
+  bottom: -2px;
+}
+
+.sonhos .sonho4d14e8b80 .prazoeea15605 .x15520215aa8d08b .x15520215aa8d08b-0 {
+  color: rgba(241, 241, 241, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4d14e8b80 .prazoeea15605 .x15520215aa8d08b .x15520215aa8d08b-1 {
+  color: rgba(255, 0, 0, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4d14e8b80 .valor00884918 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 146px;
+  height: 15px;
+  left: 3px;
+  top: 21px;
+}
+
+.sonhos .sonho4d14e8b80 .valor00884918 .valorNecessarioc9bb53f4 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(241, 241, 241, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  width: 85px;
+  height: auto;
+  left: 0px;
+  top: 2px;
+  bottom: -2px;
+}
+
+.sonhos .sonho4d14e8b80 .valor00884918 .r03545065 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 0, 0, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: 59px;
+  height: auto;
+  top: 2px;
+  right: 0px;
+  bottom: -2px;
+}
+
+.sonhos .sonho4d14e8b80 .valor00884918 .r03545065 .r03545065-0 {
+  color: rgba(241, 241, 241, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4d14e8b80 .valor00884918 .r03545065 .r03545065-0 {
+  color: rgba(255, 0, 0, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho43ce83b8c {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 160px;
+  height: 108px;
+  left: 188px;
+  top: 164px;
+}
+
+.sonhos .sonho43ce83b8c .retangulo24edc6fde7 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(58, 58, 58, 1);
+  border-bottom-color: rgba(112, 112, 112, 1);
+  border-bottom-style: none;
+  border-bottom-width: 1px;
+  border-left-color: rgba(112, 112, 112, 1);
+  border-left-style: none;
+  border-left-width: 1px;
+  border-right-color: rgba(112, 112, 112, 1);
+  border-right-style: none;
+  border-right-width: 1px;
+  border-top-color: rgba(112, 112, 112, 1);
+  border-top-style: none;
+  border-top-width: 1px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  box-shadow: none;
+  width: 157px;
+  height: auto;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+}
+
+.sonhos .sonho43ce83b8c .comprarAlgo3016ab9d {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 255, 255, 1);
+  -webkit-text-stroke: unset;
+  font-size: 15px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  width: 157px;
+  height: 26px;
+  top: 6px;
+  right: 0px;
+}
+
+.sonhos .sonho43ce83b8c .x6e67d7de {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 18px;
+  height: 19px;
+  left: 10px;
+  top: 63px;
+}
+
+.sonhos .sonho43ce83b8c .x6e67d7de .retangulo319d7bfa42 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 0, 0, 1);
+  border-bottom-color: rgba(112, 112, 112, 1);
+  border-bottom-style: none;
+  border-bottom-width: 1px;
+  border-left-color: rgba(112, 112, 112, 1);
+  border-left-style: none;
+  border-left-width: 1px;
+  border-right-color: rgba(112, 112, 112, 1);
+  border-right-style: none;
+  border-right-width: 1px;
+  border-top-color: rgba(112, 112, 112, 1);
+  border-top-style: none;
+  border-top-width: 1px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  box-shadow: none;
+  width: auto;
+  height: auto;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+.sonhos .sonho43ce83b8c .x6e67d7de .x7a33b801 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 0, 0, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: auto;
+  height: 15px;
+  left: 0px;
+  top: 4px;
+  right: 0px;
+}
+
+.sonhos .sonho43ce83b8c .x6e67d7de .x7a33b801 .x7a33b801-0 {
+  color: rgba(241, 241, 241, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho43ce83b8c .x6e67d7de .x7a33b801 .x7a33b801-1 {
+  color: rgba(255, 0, 0, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho43ce83b8c .check7cfd7b0e {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 118px;
+  height: 19px;
+  left: 17px;
+  top: 87px;
+}
+
+.sonhos .sonho43ce83b8c .check7cfd7b0e .retangulo30944c4b60 {
+  position: absolute;
+  box-sizing: border-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 0, 0, 1);
+  border-bottom-color: rgba(112, 112, 112, 1);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-left-color: rgba(112, 112, 112, 1);
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-right-color: rgba(112, 112, 112, 1);
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-top-color: rgba(112, 112, 112, 1);
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  box-shadow: none;
+  width: 113px;
+  height: auto;
+  left: 2px;
+  top: 0px;
+  bottom: 0px;
+}
+
+.sonhos .sonho43ce83b8c .check7cfd7b0e .marcarComoFeito2953348a {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 255, 255, 1);
+  -webkit-text-stroke: unset;
+  font-size: 11px;
+  font-weight: 400;
+  font-style: normal;
+  font-family: Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: auto;
+  height: 9px;
+  left: 0px;
+  top: 4px;
+  right: 0px;
+}
+
+.sonhos .sonho43ce83b8c .dinheiro0aa949a0 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 57.5px;
+  height: 15px;
+  left: 92px;
+  top: 65px;
+}
+
+.sonhos .sonho43ce83b8c .dinheiro0aa949a0 .linha569fafbc6 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 54.59px;
+  height: 1px;
+  top: 12.29px;
+  right: -0px;
+}
+
+.sonhos .sonho43ce83b8c .dinheiro0aa949a0 .r29c27f7b {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 0, 0, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: 19px;
+  height: auto;
+  left: 0px;
+  top: 2px;
+  bottom: -2px;
+}
+
+.sonhos .sonho43ce83b8c .dinheiro0aa949a0 .r29c27f7b .r29c27f7b-0 {
+  color: rgba(241, 241, 241, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho43ce83b8c .dinheiro0aa949a0 .r29c27f7b .r29c27f7b-0 {
+  color: rgba(255, 0, 0, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho43ce83b8c .prazo0d3ef9e9 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 146px;
+  height: 15px;
+  left: 0px;
+  top: 43px;
+}
+
+.sonhos .sonho43ce83b8c .prazo0d3ef9e9 .prazo9819061c {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(241, 241, 241, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: 43px;
+  height: auto;
+  left: 0px;
+  top: 2px;
+  bottom: -2px;
+}
+
+.sonhos .sonho43ce83b8c .prazo0d3ef9e9 .x15520218dad79a5 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 0, 0, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: 55px;
+  height: auto;
+  top: 2px;
+  right: 0px;
+  bottom: -2px;
+}
+
+.sonhos .sonho43ce83b8c .prazo0d3ef9e9 .x15520218dad79a5 .x15520218dad79a5-0 {
+  color: rgba(241, 241, 241, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho43ce83b8c .prazo0d3ef9e9 .x15520218dad79a5 .x15520218dad79a5-1 {
+  color: rgba(255, 0, 0, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho43ce83b8c .valorf0bc010d {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 146px;
+  height: 15px;
+  left: 3px;
+  top: 21px;
+}
+
+.sonhos .sonho43ce83b8c .valorf0bc010d .valorNecessario1e51e515 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(241, 241, 241, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  width: 85px;
+  height: auto;
+  left: 0px;
+  top: 2px;
+  bottom: -2px;
+}
+
+.sonhos .sonho43ce83b8c .valorf0bc010d .r2ea30995 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 0, 0, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: 59px;
+  height: auto;
+  top: 2px;
+  right: 0px;
+  bottom: -2px;
+}
+
+.sonhos .sonho43ce83b8c .valorf0bc010d .r2ea30995 .r2ea30995-0 {
+  color: rgba(241, 241, 241, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho43ce83b8c .valorf0bc010d .r2ea30995 .r2ea30995-0 {
+  color: rgba(255, 0, 0, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4bdb1bef1 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 160px;
+  height: 108px;
+  left: 21px;
+  top: 291px;
+}
+
+.sonhos .sonho4bdb1bef1 .retangulo2453f26272 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(58, 58, 58, 1);
+  border-bottom-color: rgba(112, 112, 112, 1);
+  border-bottom-style: none;
+  border-bottom-width: 1px;
+  border-left-color: rgba(112, 112, 112, 1);
+  border-left-style: none;
+  border-left-width: 1px;
+  border-right-color: rgba(112, 112, 112, 1);
+  border-right-style: none;
+  border-right-width: 1px;
+  border-top-color: rgba(112, 112, 112, 1);
+  border-top-style: none;
+  border-top-width: 1px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  box-shadow: none;
+  width: 157px;
+  height: auto;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
+}
+
+.sonhos .sonho4bdb1bef1 .comprarAlgo7865ab0b {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 255, 255, 1);
+  -webkit-text-stroke: unset;
+  font-size: 15px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  width: 157px;
+  height: 26px;
+  top: 6px;
+  right: 0px;
+}
+
+.sonhos .sonho4bdb1bef1 .x18104bc1 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 18px;
+  height: 19px;
+  left: 10px;
+  top: 63px;
+}
+
+.sonhos .sonho4bdb1bef1 .x18104bc1 .retangulo31110aaafa {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 0, 0, 1);
+  border-bottom-color: rgba(112, 112, 112, 1);
+  border-bottom-style: none;
+  border-bottom-width: 1px;
+  border-left-color: rgba(112, 112, 112, 1);
+  border-left-style: none;
+  border-left-width: 1px;
+  border-right-color: rgba(112, 112, 112, 1);
+  border-right-style: none;
+  border-right-width: 1px;
+  border-top-color: rgba(112, 112, 112, 1);
+  border-top-style: none;
+  border-top-width: 1px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  box-shadow: none;
+  width: auto;
+  height: auto;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+.sonhos .sonho4bdb1bef1 .x18104bc1 .x33cde6a9 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 0, 0, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: auto;
+  height: 15px;
+  left: 0px;
+  top: 4px;
+  right: 0px;
+}
+
+.sonhos .sonho4bdb1bef1 .x18104bc1 .x33cde6a9 .x33cde6a9-0 {
+  color: rgba(241, 241, 241, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4bdb1bef1 .x18104bc1 .x33cde6a9 .x33cde6a9-1 {
+  color: rgba(255, 0, 0, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4bdb1bef1 .checkf3f4ebe4 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 118px;
+  height: 19px;
+  left: 17px;
+  top: 87px;
+}
+
+.sonhos .sonho4bdb1bef1 .checkf3f4ebe4 .retangulo30ee023f55 {
+  position: absolute;
+  box-sizing: border-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 0, 0, 1);
+  border-bottom-color: rgba(112, 112, 112, 1);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-left-color: rgba(112, 112, 112, 1);
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-right-color: rgba(112, 112, 112, 1);
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-top-color: rgba(112, 112, 112, 1);
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  box-shadow: none;
+  width: 113px;
+  height: auto;
+  left: 2px;
+  top: 0px;
+  bottom: 0px;
+}
+
+.sonhos .sonho4bdb1bef1 .checkf3f4ebe4 .marcarComoFeito91ae07e0 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 255, 255, 1);
+  -webkit-text-stroke: unset;
+  font-size: 11px;
+  font-weight: 400;
+  font-style: normal;
+  font-family: Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: auto;
+  height: 9px;
+  left: 0px;
+  top: 4px;
+  right: 0px;
+}
+
+.sonhos .sonho4bdb1bef1 .dinheiro6fdced01 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 57.5px;
+  height: 15px;
+  left: 92px;
+  top: 65px;
+}
+
+.sonhos .sonho4bdb1bef1 .dinheiro6fdced01 .linha5c1b2b240 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 54.59px;
+  height: 1px;
+  top: 12.29px;
+  right: -0px;
+}
+
+.sonhos .sonho4bdb1bef1 .dinheiro6fdced01 .r887ee385 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 0, 0, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: 19px;
+  height: auto;
+  left: 0px;
+  top: 2px;
+  bottom: -2px;
+}
+
+.sonhos .sonho4bdb1bef1 .dinheiro6fdced01 .r887ee385 .r887ee385-0 {
+  color: rgba(241, 241, 241, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4bdb1bef1 .dinheiro6fdced01 .r887ee385 .r887ee385-0 {
+  color: rgba(255, 0, 0, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4bdb1bef1 .prazo0d01f604 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 146px;
+  height: 15px;
+  left: 0px;
+  top: 43px;
+}
+
+.sonhos .sonho4bdb1bef1 .prazo0d01f604 .prazod1e1fcbc {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(241, 241, 241, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: 43px;
+  height: auto;
+  left: 0px;
+  top: 2px;
+  bottom: -2px;
+}
+
+.sonhos .sonho4bdb1bef1 .prazo0d01f604 .x1552021610ba803 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 0, 0, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: 55px;
+  height: auto;
+  top: 2px;
+  right: 0px;
+  bottom: -2px;
+}
+
+.sonhos .sonho4bdb1bef1 .prazo0d01f604 .x1552021610ba803 .x1552021610ba803-0 {
+  color: rgba(241, 241, 241, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4bdb1bef1 .prazo0d01f604 .x1552021610ba803 .x1552021610ba803-1 {
+  color: rgba(255, 0, 0, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4bdb1bef1 .valorec51000a {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 146px;
+  height: 15px;
+  left: 3px;
+  top: 21px;
+}
+
+.sonhos .sonho4bdb1bef1 .valorec51000a .valorNecessario29a82a5c {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(241, 241, 241, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  width: 85px;
+  height: auto;
+  left: 0px;
+  top: 2px;
+  bottom: -2px;
+}
+
+.sonhos .sonho4bdb1bef1 .valorec51000a .rf8b4c407 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0deg);
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 10px;
+  letter-spacing: 0px;
+  color: rgba(255, 0, 0, 1);
+  -webkit-text-stroke: unset;
+  font-size: 10px;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Segoe UI", Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: auto;
+  overflow-y: auto;
+  width: 59px;
+  height: auto;
+  top: 2px;
+  right: 0px;
+  bottom: -2px;
+}
+
+.sonhos .sonho4bdb1bef1 .valorec51000a .rf8b4c407 .rf8b4c407-0 {
+  color: rgba(241, 241, 241, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.sonhos .sonho4bdb1bef1 .valorec51000a .rf8b4c407 .rf8b4c407-0 {
+  color: rgba(255, 0, 0, 1);
+  font-weight: 700;
+  font-style: normal;
+  font-size: 10px;
+  font-family: "Segoe UI", Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
