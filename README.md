@@ -1,1 +1,1 @@
-# Getnet-Plus-telas
+Getnet- lus telas
